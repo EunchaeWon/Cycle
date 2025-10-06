@@ -3,7 +3,7 @@
 **Cycle** is a Unity-based prototype that explores  
 **environmental design, cycling mechanics, and camera storytelling** through gameplay.  
 This repository includes **C# scripts and project settings only**, intentionally excluding assets and models.
-Folder name : Public Concrete
+(previous project folder name : Public Concrete)
 ---
 
 ## 🧩 Overview
