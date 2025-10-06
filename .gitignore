@@ -1,0 +1,27 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+.DS_Store
+Thumbs.db
+
+# Ignore everything in Assets by default
+Assets/**
+
+# ✅ Keep only my C# scripts and meta files
+!Assets/Scripts/**
+!Assets/Scripts/**/*.meta
+
+# Include settings and packages
+!ProjectSettings/**
+!Packages/**
